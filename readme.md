@@ -15,6 +15,8 @@ This project analyzes customer churn for a telecommunications company using a co
 
 The Telco Customer Churn dataset provides a comprehensive view of customer attributes, service usage, location data, and churn behavior. This expanded dataset serves as a valuable resource for understanding churn patterns, customer segmentation, and developing targeted marketing strategies.
 
+The dataset is based on the [Telco customer churn dataset from Hugging Face](https://huggingface.co/datasets/aai510-group1/telco-customer-churn)
+
 ### Business Value
 
 This dataset enables several business-critical analyses:
