@@ -30,29 +30,19 @@ This dataset enables several business-critical analyses:
 
 Our analysis follows a robust data processing pipeline implemented on AWS:
 
-1. **Data Ingestion**
-   - Raw data stored in Amazon S3 buckets
-   - Automated data uploads using AWS Transfer Family
+1. ** Section 1: Set up of Environment**
+   - to fill soon
 
-2. **Data Processing**
-   - ETL jobs using AWS Glue for data transformation
-   - Data quality checks and validation using AWS Lambda functions
+2. **Section 2: Hyperparameter Tuning**
+   - to fill soon
+     
+3. **Section 3: Deploying Endpoint for Model**
+   - to fill soon
 
-3. **Data Storage and Management**
-   - Processed data stored in Amazon RDS (PostgreSQL)
-   - Data catalog maintained using AWS Glue Data Catalog
+4. **Evaluation and Storing Predictions**
+   - to fill soon
 
-4. **Analysis and Modeling**
-   - Machine learning models developed using Amazon SageMaker
-   - SQL queries for data exploration via Amazon Athena
 
-5. **Visualization and Reporting**
-   - Interactive dashboards created with Amazon QuickSight
-   - Automated report generation and distribution
-
-6. **Orchestration**
-   - Workflow orchestration using AWS Step Functions
-   - Scheduling with Amazon EventBridge
 
 ## Key Dataset Attributes
 
