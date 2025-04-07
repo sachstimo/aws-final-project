@@ -1,0 +1,9 @@
+{
+    "objective": "binary:logistic",
+    "eval_metric": "auc",
+    "alpha": 13.269095607799585,
+    "min_child_weight": 4.872770813681558,
+    "subsample": 0.7147416424337965,
+    "eta": 0.12051434179198124,
+    "num_round": 40
+}
